@@ -58,6 +58,10 @@ vendor/lib64/libsoc_helper.so
 vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so
 vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so
 
+# Bluetooth (A2DP software) - from bangkk T3TC33.18-48-6
+# https://github.com/redznn-dumps/motorola_bangkk_dump/blob/9de713100a8373d58693de94d3b1cc971550e397/vendor/lib/hw/audio.bluetooth_qti.default.so
+vendor/lib/hw/audio.bluetooth_qti.default.so|3652b9f14cce51ae7c43687112ae2aaf928a1b39
+
 # Bluetooth (A2DP)
 vendor/lib/btaudio_offload_if.so
 vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so
